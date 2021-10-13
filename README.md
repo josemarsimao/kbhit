@@ -1,2 +1,2 @@
 # kbhit
-Linux kbhit() function implementation.
+Linux kbhit() C function implementation.
